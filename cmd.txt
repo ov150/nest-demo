@@ -1,0 +1,13 @@
+to create nest application => npm i -g @nestjs/cli , 
+                              nest new project-name
+
+
+
+to create the module => nest g module (Module Name)
+
+
+to create the controller => nest g controller (Module Name)
+
+
+to create the service => nest g service users
+
